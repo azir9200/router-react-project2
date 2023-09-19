@@ -1,0 +1,12 @@
+.userStyle {
+  border: 4px solid blueviolet;
+  margin: 10px;
+  border-bottom-left-radius: 30px;
+  border-top-right-radius: 30px;
+}
+
+.name {
+  color: olivedrab;
+  text-decoration-line: underline;
+  text-decoration-color: rgb(5, 241, 249);
+}
